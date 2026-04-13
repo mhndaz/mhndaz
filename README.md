@@ -28,8 +28,7 @@ My experience in system administration and computer science led me to focus on c
 <img src="https://img.shields.io/badge/OPNsense-Firewall%20%2F%20Network%20Security-EA5B0C?style=for-the-badge&logo=opnsense&logoColor=white" /> <img src="https://img.shields.io/badge/Wireshark-Network%20Analysis-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" /> 
 
 ####  Web Security / Penetration Testing
-- Burp Suite  
-- Postman (API Testing)  
+<img src="https://img.shields.io/badge/Burp%20Suite-Web%20Security%20Testing-FF6F00?style=for-the-badge&logo=burpsuite&logoColor=white" /> <img src="https://img.shields.io/badge/Postman-API%20Testing-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /> 
 
 ####  SIEM / Log Analysis
 - Splunk  
