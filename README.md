@@ -38,6 +38,11 @@ My experience in system administration and computer science led me to focus on c
 
 ###  Education
 
+<img src="https://img.shields.io/badge/M.S.-Cyber%20Security-Saint%20Peter's%20University-0B3D91?style=for-the-badge&logo=academia&logoColor=white" />
+<img src="https://img.shields.io/badge/Certificate-Internetwork%20Engineering-PC%20AGE%20Career%20Institute-4A90E2?style=for-the-badge&logo=linux&logoColor=white" />
+<img src="https://img.shields.io/badge/M.S.-Information%20Systems-UMMTO-2E7D32?style=for-the-badge&logo=google-scholar&logoColor=white" />
+<img src="https://img.shields.io/badge/Bachelor's-Computer%20Science-UMMTO-6A1B9A?style=for-the-badge&logo=gitbook&logoColor=white" />
+
 - **M.S. in Cyber Security**, Saint Peter’s University — Jersey City, NJ  
 
 - **Internetwork Engineering Certificate**, PC AGE Career Institute — Jersey City, NJ  
