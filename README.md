@@ -59,6 +59,6 @@ My experience in system administration and computer science led me to focus on c
 ## Projects
 
 
-
+- Wazuh-Based SIEM Infrastructure with Agent-Based Log Collection and Analysis
 - Detection Lab
 - SOC Automation Project
