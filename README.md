@@ -22,10 +22,7 @@ My experience in system administration and computer science led me to focus on c
 ###  Tools & Technologies
 
 ####  Malware Analysis / Reverse Engineering
-- Ghidra  
-- IDA Pro
-<img src="https://img.shields.io/badge/Ghidra-Reverse%20Engineering-6C3C0C?style=for-the-badge&logo=gnu&logoColor=white" /> 
-<img src="https://img.shields.io/badge/IDA%20Pro-Disassembler%20%2F%20RE-1E1E1E?style=for-the-badge&logo=hackthebox&logoColor=white" />
+<img src="https://img.shields.io/badge/Ghidra-Reverse%20Engineering-6C3C0C?style=for-the-badge&logo=gnu&logoColor=white" /> <img src="https://img.shields.io/badge/IDA%20Pro-Disassembler%20%2F%20RE-1E1E1E?style=for-the-badge&logo=hackthebox&logoColor=white" />
 
 ####  Network Security & Firewalls
 - OPNsense  
