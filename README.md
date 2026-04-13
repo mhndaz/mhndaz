@@ -42,6 +42,8 @@ My experience in system administration and computer science led me to focus on c
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
+## Educations
+
 ## Certifications
 
 <img src="https://img.shields.io/badge/CompTIA-A%2B-4D4D4D?style=for-the-badge&logo=CompTIA&logoColor=white" /> 
