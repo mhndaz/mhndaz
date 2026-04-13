@@ -35,7 +35,8 @@ My experience in system administration and computer science led me to focus on c
 
 ####  SIEM / Log Analysis
 - Splunk  
-- Graylog  
+- Graylog
+- Wazuh
 
 ####  Programming & Automation
 - Python (Scripting & Automation)  
