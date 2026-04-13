@@ -38,9 +38,9 @@ My experience in system administration and computer science led me to focus on c
 
 ###  Education
 
-- **M.S. in Cyber Security**, Saint Peter’s University — Jersey City, NJ  
+- **M.S. in Cyber Security**, Saint Peter’s University
 
-- **Internetwork Engineering Certificate**, PC AGE Career Institute — Jersey City, NJ  
+- **Internetwork Engineering Certificate**, PC AGE Career Institute
 
 - **M.S. in Information Systems**, UMMTO — Algeria  
 
