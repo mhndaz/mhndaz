@@ -1,9 +1,7 @@
 # Hello, I'm MO
 <a href="https://www.linkedin.com/in/meme701aaa1b9/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
-
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I work in system administration with a strong focus on cybersecurity, helping protect and maintain network infrastructure at Mid-Atlantic Mechanical. My responsibilities include securing Microsoft Exchange, managing Windows systems, and keeping network appliances protected against threats. I have a Master’s degree from Saint Peter’s University and CompTIA certifications in cybersecurity, which support my hands-on experience in the field. I’ve also taught Malware Analysis and Defense, where I helped students understand how to identify and respond to real-world threats. Overall, my work combines practical security experience with a solid academic background.
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
