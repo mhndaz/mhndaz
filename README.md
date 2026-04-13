@@ -52,5 +52,6 @@ My experience in system administration and computer science led me to focus on c
 </div>
 
 ## Projects
+<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /> <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" /> <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" /> <img src="https://camo.githubusercontent.com/cfe0774b476361491f478cf670f8be2828d03d1db1108c9c8db6ff7977c4f660/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6963726f736f66742d415a2d2d3130342d3030373844343f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6963726f736f66742d617a757265266c6f676f436f6c6f723d7768697465" /> <img src="https://img.shields.io/badge/Cloud-Amazon_AWS-blue?logo=amazonaws" />
 - Detection Lab
 - SOC Automation Project
