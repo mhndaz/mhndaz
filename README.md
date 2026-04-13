@@ -19,25 +19,25 @@ My experience in system administration and computer science led me to focus on c
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
-### 🛠️ Tools & Technologies
+###  Tools & Technologies
 
-#### 🧠 Malware Analysis / Reverse Engineering
+####  Malware Analysis / Reverse Engineering
 - Ghidra  
 - IDA Pro  
 
-#### 🌐 Network Security & Firewalls
+####  Network Security & Firewalls
 - OPNsense  
 - Wireshark  
 
-#### 🕵️ Web Security / Penetration Testing
+####  Web Security / Penetration Testing
 - Burp Suite  
 - Postman (API Testing)  
 
-#### 📊 SIEM / Log Analysis
+####  SIEM / Log Analysis
 - Splunk  
 - Graylog  
 
-#### 💻 Programming & Automation
+####  Programming & Automation
 - Python (Scripting & Automation)  
 - APIs Testing (Postman)
 
