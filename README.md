@@ -31,13 +31,10 @@ My experience in system administration and computer science led me to focus on c
 <img src="https://img.shields.io/badge/Burp%20Suite-Web%20Security%20Testing-FF6F00?style=for-the-badge&logo=burpsuite&logoColor=white" /> <img src="https://img.shields.io/badge/Postman-API%20Testing-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /> 
 
 ####  SIEM / Log Analysis
-- Splunk  
-- Graylog
-- Wazuh
+<img src="https://img.shields.io/badge/Splunk-SIEM%20%2F%20Log%20Analysis-000000?style=for-the-badge&logo=splunk&logoColor=white" /> <img src="https://img.shields.io/badge/Graylog-Log%20Management-4B4B4B?style=for-the-badge&logo=graylog&logoColor=white" /> <img src="https://img.shields.io/badge/Wazuh-Security%20Monitoring-1E3A8A?style=for-the-badge&logo=wazuh&logoColor=white" />
 
 ####  Programming & Automation
-- Python (Scripting & Automation)  
-- APIs Testing (Postman)
+<img src="https://img.shields.io/badge/Python-Scripting%20%26%20Automation-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/APIs%20Testing-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 
 ###  Education
 
