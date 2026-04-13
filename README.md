@@ -4,9 +4,8 @@
 I work in system administration with a strong focus on cybersecurity, helping protect and maintain network infrastructure at Mid-Atlantic Mechanical. My responsibilities include securing Microsoft Exchange, managing Windows systems, and keeping network appliances protected against threats. I have a Master’s degree from Saint Peter’s University and CompTIA certifications in cybersecurity, which support my hands-on experience in the field. I’ve also taught Malware Analysis and Defense, where I helped students understand how to identify and respond to real-world threats. Overall, my work combines practical security experience with a solid academic background.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My experience in system administration and computer science led me to focus on cybersecurity, especially securing networks and systems in real-world environments. I’m now looking to move into a SOC Tier 1 Analyst role, where I can build on that experience and work on threat monitoring and incident response.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
