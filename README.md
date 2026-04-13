@@ -42,7 +42,19 @@ My experience in system administration and computer science led me to focus on c
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
-## Educations
+### 🎓 Education
+
+- **M.S. in Cyber Security**, Saint Peter’s University — Jersey City, NJ  
+  *Feb 2023 – Feb 2024*
+
+- **Internetwork Engineering Certificate**, PC AGE Career Institute — Jersey City, NJ  
+  *Jan 2020 – Oct 2020*
+
+- **Master’s in Information Systems**, UMMTO — Algeria  
+  *Sep 2016*
+
+- **Bachelor’s (License) in Computer Science**, UMMTO — Algeria  
+  *June 2014*
 
 ## Certifications
 
