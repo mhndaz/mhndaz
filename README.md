@@ -18,6 +18,8 @@ My experience in system administration and computer science led me to focus on c
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| tststts | SOC Automation Lab|
+
 
 ###  Tools & Technologies
 
