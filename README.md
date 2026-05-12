@@ -8,7 +8,6 @@ I work in system administration with a strong focus on cybersecurity, helping pr
 My experience in system administration and computer science led me to focus on cybersecurity, especially securing networks and systems in real-world environments. I’m now looking to move into a SOC Tier 1 Analyst role, where I can build on that experience and work on threat monitoring and incident response.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
