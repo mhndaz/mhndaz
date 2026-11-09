@@ -57,6 +57,9 @@ My experience in system administration and computer science led me to focus on c
 ## Projects
 
 
-- Wazuh-Based SIEM Infrastructure with Agent-Based Log Collection and Analysis
-- Detection Lab
-- SOC Automation Project
+- Wazuh-Based SIEM Infrastructure with Agent-Based Log Collection and Analysis.
+- Malware Analysis Reverse Engineering.
+- SharePoint to Azure File Share Migration.
+- Automating Phishing Email Detection, Reporting and Remediation(Coming Soon)
+- SOC Automation Project(Coming Soon)
+
