@@ -13,6 +13,8 @@ My experience in system administration and computer science led me to focus on c
 |-----------------------------------------------|----------------------------|
 | Wazuh SIEM Lab: Threat Detection, Sysmon Monitoring, and File Integrity Monitoring          | <a href="https://github.com/mhndaz/Wazuh-Based-SIEM">SIEM Detection</a>|
 | Malware Analysis / Reverse Engineering | <a href="https://github.com/mhndaz/Malware-Analysis-Reverse-Engineering">Malware Analysis / Malware-Analysis-Reverse-Engineering</a>|
+| Azure Files Deployment & Multi-Office Infrastructure Migration          | <a href="https://github.com/mhndaz/SharePoint-to-Azure-File-Share-Migration">Azure Files Deployment & Multi-Office Infrastructure Migration</a>|
+
 
 
 
